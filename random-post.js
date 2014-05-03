@@ -1,6 +1,3 @@
-var relatedpoststitle="";
-</script>
-<script type='text/javascript'>
 var relatedTitles = new Array();
 var relatedTitlesNum = 0;
 var relatedUrls = new Array();
